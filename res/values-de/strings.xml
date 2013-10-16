@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Badum-Tish"</string>
+    <string name="shake_me">"Schütteln!"</string>
+    <string name="menu_quit">"Beenden"</string>
+    <string name="menu_about">"Über"</string>
+    <string name="vibrate_off">"Vibr. aus"</string>
+    <string name="vibrate_on">"Vibr. an"</string>
+    <string name="vibrate">"Vibrieren"</string>
+    <string name="shake_sensitivity">"Schüttel-Empfindlichkeit"</string>
+    <string name="menu_select_jokes">"Witze wählen"</string>
+    <string name="menu_send_in_joke">"Witz einschicken"</string>
+    <string name="menu_share_joke">"Witz teilen"</string>
+    <string name="menu_preferences">"Einstellungen"</string>
+    <string name="menu_achievements">"Erfolge"</string>
+    <string name="language">"Sprache"</string>
+    <string name="english">"Englisch"</string>
+    <string name="german">"Deutsch"</string>
+    <string name="adultness">"Reifegrad"</string>
+    <string name="mature">"Erwachsene"</string>
+    <string name="safe">"Kinder"</string>
+    <string name="joke_category">"Witz Kategorien"</string>
+    <string name="select_category">"Kategorie auswählen!"</string>
+    <string name="no_joke_found">"Kein Witz gefunden!"</string>
+    <string name="email_subject">"Kennst du den schon?"</string>
+    <string name="no_email_clients_installed">"Kein Email Client installiert!"</string>
+    <string name="send_email">"Email versenden"</string>
+    <string name="email_recipient">"badumtishjokes@gmail.com"</string>
+    <string name="points_abbr">"Pkte."</string>
+    <string name ="worlds_funniest_joke_content">"Zwei Jäger gehen auf die Jagd und wandern durch den Wald. Plötzlich greift sich der eine an die Kehle, verdreht die Augen und stürzt zu Boden. Der andere Jäger gerät in Panik und ruft den Notarzt an: 'Ich glaube mein Freund ist tot, was soll ich tun?'&#10;&#10;Der Arzt sagt: 'Beruhigen Sie sich! Zunächst einmal müssen Sie sicher gehen, dass Ihr Freund wirklich tot ist.' Kurze Pause, dann ein Schuss.&#10;&#10;Der Jäger wieder am Telefon: 'OK, erledigt, und was jetzt?'"</string>
+    <string name ="laughter_onomatopoeia">"Bruahaha!"</string>
+  
+    <!-- Achievement strings -->
+    <string name="achievement_unlocked">"Erfolg freigeschalten: "</string>
+    <string name="ach_unknown_exp">"\?\?\?"</string>
+    <string name="worlds_funniest_joke">"Der beste Witz der Welt"</string>
+    <string name="best_joke_not_available">"Den besten Witz der Welt gibts bei 100%"</string>
+    <string name="MENU_name">"Schickes Menü" </string>
+    <string name="QUIT_name">"Bis denn, dann…" </string>
+    <string name="FIRST_SHAKE_name">"Like a polaroid" </string>
+    <string name="SEEN_5_JOKES_name">"Scherzbrösel" </string>
+    <string name="SEEN_15_JOKES_name">"Scherzkeks" </string>
+    <string name="SEEN_30_JOKES_name">"Scherzkuchen" </string>
+    <string name="SEEN_60_JOKES_name">"Scherzinger" </string>
+    <string name="HIGHEST_SENS_name">"Schwächling" </string>
+    <string name="STILL_30_SECS_name">"Ruhige Hand" </string>
+    <string name="SHARED_1_name">"Weitersagen" </string>
+    <string name="SHARED_5_name">"Stille Post" </string>
+    <string name="SHARED_15_name">"Fleißig geteilt" </string>
+    <string name="SHARED_30_name">"Pointenschleuder" </string>
+    <string name="SHARED_50_name">"Größter Teiler" </string>
+    <string name="CONTR_1_name">"Danke!" </string>
+    <string name="CONTR_5_name">"Mein Beitrag" </string>
+    <string name="CONTR_15_name">"Hobbyeinsender" </string>
+    <string name="CONTR_30_name">"Großzulieferer" </string>
+    <string name="CONTR_50_name">"Edler Spender" </string>
+    <string name="VIBS_20_name">"Bzzzzzz" </string>
+    <string name="MENU_desc">"Das Menü entdeckt" </string>
+    <string name="QUIT_desc">"App zum ersten Mal beendet" </string>
+    <string name="FIRST_SHAKE_desc">"Das erste Mal geschüttelt" </string>
+    <string name="SEEN_5_JOKES_desc">"Fünf Witze gesehen" </string>
+    <string name="SEEN_15_JOKES_desc">"15 Witze gesehen" </string>
+    <string name="SEEN_30_JOKES_desc">"30 Witze gesehen" </string>
+    <string name="SEEN_60_JOKES_desc">"60 Witze gesehen" </string>
+    <string name="HIGHEST_SENS_desc">"Auf höchster Empf. geschüttelt" </string>
+    <string name="STILL_30_SECS_desc">"Auf höchster Empf. 30 Sek. lang still gehalten" </string>
+    <string name="SHARED_1_desc">"Einen Witz geteilt" </string>
+    <string name="SHARED_5_desc">"Fünf Witze geteilt" </string>
+    <string name="SHARED_15_desc">"15 Witze geteilt" </string>
+    <string name="SHARED_30_desc">"30 Witze geteilt" </string>
+    <string name="SHARED_50_desc">"50 Witze geteilt" </string>
+    <string name="CONTR_1_desc">"Einen Witz eingeschickt" </string>
+    <string name="CONTR_5_desc">"Fünf Witze eingeschickt" </string>
+    <string name="CONTR_15_desc">"15 Witze eingeschickt" </string>
+    <string name="CONTR_30_desc">"30 Witze eingeschickt" </string>
+    <string name="CONTR_50_desc">"50 Witze eingeschickt" </string>
+    <string name="VIBS_20_desc">"20 Mal vibriert" </string>
+
+
+</resources>

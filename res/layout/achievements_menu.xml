@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/VerticalScrollView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <HorizontalScrollView
+        android:id="@+id/HorizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:id="@+id/achievementsTable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:stretchColumns="1" >
+
+            <TableRow>
+
+                <Button
+                    android:id="@+id/worlds_best_joke"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/best_joke_button"
+                    android:onClick="onClick"
+                    android:text="@string/worlds_funniest_joke" />
+
+                <at.MatthiasBraun.BadumTishGUI.TextProgressBar  
+                    android:id="@+id/achievement_progressbar"
+                    style="@android:style/Widget.ProgressBar.Horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="2"
+                    android:maxHeight="30dip"
+                    android:minHeight="30dip" />
+            </TableRow>
+
+            <View
+                android:layout_height="2dip"
+                android:background="@color/grey" />
+        </TableLayout>
+    </HorizontalScrollView>
+
+</ScrollView>

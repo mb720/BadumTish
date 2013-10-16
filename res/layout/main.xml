@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <at.MatthiasBraun.BadumTishGUI.AutoResizeTextView
+        android:id="@+id/joke_text_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/translucent_dark_blue"
+        android:gravity="center"
+        android:text="@string/shake_me"
+        android:textColor="@color/light_grey"
+        android:textSize="15pt" />
+     >
+
+</LinearLayout>

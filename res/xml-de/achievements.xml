@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<achievements>
+
+    <achievement key="MENU" name="Schickes Menü" desc="Das Menü entdeckt" pts= "5"/>
+    <achievement key="QUIT" name="Bis denn, dann…" desc="App zum ersten Mal beendet" pts= "5"/>
+    <achievement key="FIRST_SHAKE" name="Like a polaroid" desc="Das erste Mal geschüttelt" pts= "5"/>
+    <achievement key="SEEN_5_JOKES" name="Scherzbrösel" desc="Fünf verschiedene Witze gesehen" pts= "5"/>
+    <achievement key="SEEN_15_JOKES" name="Scherzkeks" desc="15 verschiedene Witze gesehen" pts= "10"/>
+    <achievement key="SEEN_30_JOKES" name="Scherzkuchen" desc="30 verschiedene Witze gesehen" pts= "15"/>
+    <achievement key="SEEN_60_JOKES" name="Scherzinger" desc="60 verschiedene Witze gesehen" pts= "20"/>
+    <achievement key="HIGHEST_SENS" name="Schwächling" desc="Auf höchster Empf. geschüttelt" pts= "5"/>
+    <achievement key="30_SECS_STILL" name="Ruhige Hand" desc="Auf höchster Empf. 30 Sek. still gehalten" pts= "5"/>
+    <achievement key="1_SHARED" name="Weitersagen" desc="Einen Witz geteilt" pts= "5"/>
+    <achievement key="5_SHARED" name="Stille Post" desc="Fünf Witze geteilt" pts= "15"/>
+    <achievement key="15_SHARED" name="Fleißig geteilt" desc="15 Witze geteilt" pts= "20"/>
+    <achievement key="30_SHARED" name="Pointenschleuder" desc="30 Witze geteilt" pts= "25"/>
+    <achievement key="50_SHARED" name="Größter Teiler" desc="50 Witze geteilt" pts= "30"/>
+    <achievement key="1_CONTR" name="Danke!" desc="Einen Witz eingeschickt" pts= "5"/>
+    <achievement key="5_CONTR" name="Mein Beitrag" desc="Fünf Witze eingeschickt" pts= "15"/>
+    <achievement key="15_CONTR" name="Hobbyeinsender" desc="15 Witze eingeschickt" pts= "20"/>
+    <achievement key="30_CONTR" name="Großzulieferer" desc="30 Witze eingeschickt" pts= "25"/>
+    <achievement key="50_CONTR" name="Edler Spender" desc="50 Witze eingeschickt" pts= "30"/>
+    <achievement key="20_VIBS" name="Brrrrrr" desc="20 Mal vibriert" pts= "10"/>
+<!--     <achievement key="0" name="Das war ja einfach!" desc="App zum ersten Mal geöffnet" pts= "5"/>	 -->
+<!-- 	<achievement key="8" name="Starker Arm" desc="Auf niedrigster Empf. geschüttelt" pts= "10"/> -->
+</achievements>

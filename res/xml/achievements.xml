@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<achievements>
+    <achievement key="MENU" name="The menu, please!" desc="Discovered the menu" pts="5"/>
+    <achievement key="QUIT" name="Fun's over..." desc="Quit the app for the first time" pts="5"/>
+    <achievement key="FIRST_SHAKE" name="Like a polaroid" desc="Shook the first time" pts="5"/>
+    <achievement key="SEEN_5_JOKES" name="Joke amateur" desc="Seen five different jokes" pts="5"/>
+    <achievement key="SEEN_15_JOKES" name="Joke apprentice" desc="Seen 15 different jokes" pts="10"/>
+    <achievement key="SEEN_30_JOKES" name="Joke connoisseur" desc="Seen 30 different jokes" pts="15"/>
+    <achievement key="SEEN_60_JOKES" name="Joke master" desc="Seen 60 different jokes" pts="20"/>
+    <achievement key="HIGHEST_SENS" name="Weakling" desc="Shake on highest sensitivity" pts="5"/>
+    <achievement key="30_SECS_STILL" name="Steady hand" desc="Did not shake phone on highest sens. for 30 seconds" pts="5"/>
+    <achievement key="1_SHARED" name="First share" desc="Shared one joke" pts="5"/>
+    <achievement key="5_SHARED" name="Spread the word!" desc="Shared five jokes" pts="15"/>
+    <achievement key="15_SHARED" name="Eager sharer" desc="Shared 15 jokes" pts="20"/>
+    <achievement key="30_SHARED" name="Bigtime sharer" desc="Shared 30 jokes" pts="25"/>
+    <achievement key="50_SHARED" name="Royal sharer" desc="Shared 50 jokes" pts="30"/>
+    <achievement key="1_CONTR" name="Thanks!" desc="Contributed one joke" pts="5"/>
+    <achievement key="5_CONTR" name="Junior contributor" desc="Sent in five jokes" pts="15"/>
+    <achievement key="15_CONTR" name="Advanced contributor" desc="Sent in 15 jokes" pts="20"/>
+    <achievement key="30_CONTR" name="Tireless contributor" desc="Sent in 30 jokes" pts="25"/>
+    <achievement key="50_CONTR" name="Grand contributor" desc="Sent in 50 jokes" pts="30"/>
+    <achievement key="20_VIBS" name="Good vibrations" desc="20 shakes with vibration on" pts="10"/>
+    
+      <!--   <achievement key="0" name="That was easy" desc="Opened app for the first time" pts="5"/> -->
+ <!--        <achievement key="8" name="Strong arm" desc="Successful shake on lowest sensitivity" pts="10"/> -->
+ </achievements>   

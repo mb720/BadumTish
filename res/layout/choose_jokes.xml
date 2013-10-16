@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:stretchColumns="1" >
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/language"
+                android:paddingLeft="3dip"
+                android:text="@string/language" />
+
+            <TextView
+                android:id="@+id/adultness"
+                android:text="@string/adultness" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+
+        <TableRow>
+
+            <CheckBox
+                android:id="@+id/english_jokes"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="80dip"
+                android:text="@string/english" />
+
+            <CheckBox
+                android:id="@+id/mature_jokes"
+                android:layout_width="wrap_content"
+                android:text="@string/mature" />
+        </TableRow>
+
+        <TableRow>
+
+            <CheckBox
+                android:id="@+id/german_jokes"
+                android:text="@string/german" />
+
+            <CheckBox
+                android:id="@+id/safe_jokes"
+                android:layout_width="wrap_content"
+                android:text="@string/safe" />
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>
